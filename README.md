@@ -29,7 +29,7 @@ weighted avg           0.99      0.99      0.99     19384
 
 
 
-Summary
+# Summary
 ### 1st method
 True Positive (TP): 558 (Actual 'high-risk loan' correctly predicted as 'high-risk loan')
 True Negative (TN): 18679 (Actual 'healthy loan' correctly predicted as 'healthy loan')
